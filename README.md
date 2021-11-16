@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on getting a job!
+🔭 Working on Cardano smart contracts!
+🌱 Learning about software development
+ ⚡ Fun fact: The light we see from the Andromada Galaxy is 2.8 million years old
 
 <!--
 **iaverypadberg/iaverypadberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
