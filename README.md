@@ -1,4 +1,4 @@
-👋
+🧐
 
 🔭 Computer Vision on edge devices
 
