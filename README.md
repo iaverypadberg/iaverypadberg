@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 Working on Cardano smart contracts!
-
+🔭 Computer Vision on edge devices
+🔭 Working on Cardano smart contracts
 🌱 Learning about software development
 
  ⚡ Fun fact: The light we see from the Andromada Galaxy is 2.8 million years old
