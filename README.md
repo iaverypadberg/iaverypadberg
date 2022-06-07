@@ -1,11 +1,4 @@
-🧐 
-
-🔭 Computer Vision on edge devices
-
-🌱 Software Engineering
-
- ⚡ Fun fact: The light we see from the Andromada Galaxy is 2.8 million years old
-
+🌱 Freelance Website Design
 <!--
 **iaverypadberg/iaverypadberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
